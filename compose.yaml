@@ -1,5 +1,5 @@
 services:
-  uptime-kuma:
+  uptime-Kuma:
     image: louislam/uptime-kuma:1
     volumes:
       - ./data:/app/data
